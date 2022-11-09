@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 <!--
 **takumi12311123/takumi12311123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

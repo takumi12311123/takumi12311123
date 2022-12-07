@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/takumi12311123/takumi12311123/master/img/snake.svg) 
+
 <!--
 **takumi12311123/takumi12311123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

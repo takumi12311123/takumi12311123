@@ -17,7 +17,7 @@ def update_readme(progress):
 
     track = "-" * progress_bar_length
     track_list = list(track)
-    track_list[position] = '🚴‍♂️➡️'
+    track_list[position] = '🚴‍♂️➡'
     track = "".join(track_list)
     
     with open("README.md", "r") as f:

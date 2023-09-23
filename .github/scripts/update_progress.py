@@ -12,7 +12,7 @@ def calculate_progress():
     return progress
 
 def update_readme(progress):
-    progress_bar_length = 30  # You can adjust this for the track length
+    progress_bar_length = 120
     position = min(int(progress * progress_bar_length), progress_bar_length - 1)
 
     track = "-" * progress_bar_length
@@ -25,7 +25,7 @@ def update_readme(progress):
 
     for idx, line in enumerate(content):
         if "Year Progress" in line:
-            content[idx + 1] = f"スタート |{track}| ゴール {int(progress * 100)}%\n"
+            content[idx + 1] = f"Start |{track}| Goal {int(progress * 100)}%\n"
             break
 
     with open("README.md", "w") as f:

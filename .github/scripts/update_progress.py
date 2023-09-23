@@ -24,7 +24,7 @@ def update_readme(progress):
         content = f.readlines()
 
     for idx, line in enumerate(content):
-        if "今年の進捗度" in line:
+        if "Year Progress" in line:
             content[idx + 1] = f"スタート |{track}| ゴール {int(progress * 100)}%\n"
             break
 

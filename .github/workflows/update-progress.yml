@@ -3,6 +3,7 @@ name: Update Year Progress
 on:
   schedule:
     - cron: '0 22 * * 0'  # This will run every Sunday at 22:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:

@@ -12,8 +12,8 @@ def calculate_progress():
     return progress
 
 def update_readme(progress):
-    progress_bar_length = 120
-    position = int(progress * progress_bar_length)
+    progress_bar_length = 30  # You can adjust this for the track length
+    position = min(int(progress * progress_bar_length), progress_bar_length - 1)
 
     track = "-" * progress_bar_length
     track_list = list(track)
@@ -34,4 +34,3 @@ def update_readme(progress):
 if __name__ == "__main__":
     progress = calculate_progress()
     update_readme(progress)
-

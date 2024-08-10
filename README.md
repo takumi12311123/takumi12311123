@@ -6,13 +6,13 @@
 .
 └── takumi12311123/
     ├── .keyboard/
-    │   └── moonlander
+    │   └── Moonlander
     ├── .editor/
     │   └── Visual Studio Code
     ├── .terminal/
-    │   └── iterm2/
-    │       ├── zsh/
-    │       │   └── oh-my-zsh
+    │   └── iTerm 2/
+    │       ├── Zsh/
+    │       │   └── Oh My Zsh
     │       ├── tmux/
     │       │   ├── tmux-fzf
     │       │   └── tmux-url-view

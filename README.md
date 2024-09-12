@@ -12,7 +12,6 @@
     ├── .terminal/
     │   └── iTerm 2/
     │       ├── Zsh/
-    │       │   └── Oh My Zsh
     │       ├── tmux/
     │       │   ├── tmux-fzf
     │       │   └── tmux-url-view

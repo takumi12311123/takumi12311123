@@ -10,7 +10,7 @@
     ├── .editor/
     │   └── Visual Studio Code
     ├── .terminal/
-    │   └── iTerm 2/
+    │   └── Alacritty/
     │       ├── Zsh/
     │       ├── tmux/
     │       │   ├── tmux-fzf

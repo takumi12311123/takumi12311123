@@ -8,17 +8,23 @@
     ├── .keyboard/
     │   └── Moonlander
     ├── .editor/
-    │   └── Visual Studio Code
-    ├── .terminal/
-    │   └── Alacritty/
-    │       ├── Zsh/
-    │       ├── tmux/
-    │       │   ├── tmux-fzf
-    │       │   └── tmux-url-view
-    │       └── starship
-    └── .using/
-        ├── yabai
-        ├── skhd
-        └── Karabiner-Elements/
-            └── GokuRakuJoudo
+    │   ├── Visual Studio Code
+    │   └── Cursor/
+    │       └── .mcp/
+    │           ├── Slack
+    │           ├── PostgreSQL
+    │           ├── Figma
+    │           └── Playwright
+    └── .terminal/
+        ├── Alacritty/
+        │   ├── Zsh/
+        │   ├── tmux/
+        │   │   ├── tmux-fzf
+        │   │   └── tmux-url-view
+        │   └── starship
+        └── .using/
+            ├── yabai
+            ├── skhd
+            └── Karabiner-Elements/
+                └── GokuRakuJoudo
 ```

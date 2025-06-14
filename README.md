@@ -25,5 +25,6 @@ takumi12311123/
     ├── Karabiner-Elements/
     │   └── GokuRakuJoudo
     ├── skhd
-    └── yabai
+    ├── yabai
+    └── Claude Code
 ```

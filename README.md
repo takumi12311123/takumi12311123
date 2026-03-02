@@ -8,23 +8,37 @@ takumi12311123/
 │   └── Moonlander
 ├── .editor/
 │   ├── Visual Studio Code
-│   └── Cursor/
-│       └── .mcp/
-│           ├── Figma
-│           ├── Playwright
-│           ├── PostgreSQL
-│           └── Slack
+│   └── Neovim
 ├── .terminal/
-│   └── Alacritty/
-│       ├── Zsh/
-│       ├── tmux/
-│       │   ├── tmux-fzf
-│       │   └── tmux-url-view
-│       └── starship
+│   ├── cmux/
+│   │   ├── Claude Code/
+│   │   │   ├── RTK
+│   │   │   └── agent-browser
+│   │   └── Codex CLI
+│   ├── Zsh/
+│   │   ├── Atuin
+│   │   └── fast-syntax-highlighting
+│   ├── tmux/
+│   │   ├── tmux-fzf
+│   │   └── tmux-urlview
+│   └── Starship
+├── .tools/
+│   ├── difit
+│   ├── prr
+│   ├── lazygit
+│   ├── fzf
+│   └── ghq
 └── .using/
     ├── Karabiner-Elements/
     │   └── GokuRakuJoudo
     ├── skhd
     ├── yabai
-    └── Claude Code
+    ├── SketchyBar
+    └── Raycast
 ```
+
+## OSS Contributions
+
+| Repository | Description |
+|------------|-------------|
+| [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) | Fix files changed count when using `--pr` option ([#227](https://github.com/yoshiko-pg/difit/pull/227)) |

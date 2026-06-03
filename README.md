@@ -42,3 +42,5 @@ takumi12311123/
 | Repository | Description |
 |------------|-------------|
 | [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) | Fix files changed count when using `--pr` option ([#227](https://github.com/yoshiko-pg/difit/pull/227)) |
+| [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) | Rename "Changed" badge to "Updated" ([#382](https://github.com/yoshiko-pg/difit/pull/382)) |
+| [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) | Add "Outdated" badge to comments whose code snapshot drifted ([#383](https://github.com/yoshiko-pg/difit/pull/383)) |

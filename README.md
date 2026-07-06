@@ -47,3 +47,4 @@ takumi12311123/
 | [moby/moby](https://github.com/moby/moby) | Close synchronized channel exactly once in `integration/d/nri` ([#52736](https://github.com/moby/moby/pull/52736)) |
 | [moby/moby](https://github.com/moby/moby) | Set `timeout-minutes` on `build-dind` and `labeler` GitHub Actions jobs ([#52806](https://github.com/moby/moby/pull/52806)) |
 | [moby/moby](https://github.com/moby/moby) | Stop `contrib/check-config.sh` from failing on missing optional features ([#52784](https://github.com/moby/moby/pull/52784)) |
+| [containerd/nerdctl](https://github.com/containerd/nerdctl) | Migrate `container_run_network_windows_test.go` to `nerdtest.Setup` (Tigron) ([#5014](https://github.com/containerd/nerdctl/pull/5014)) |

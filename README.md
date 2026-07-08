@@ -10,9 +10,8 @@ takumi12311123/
 │   ├── Visual Studio Code
 │   └── Neovim
 ├── .terminal/
-│   ├── cmux/
+│   ├── superset/
 │   │   ├── Claude Code/
-│   │   │   ├── RTK
 │   │   │   └── agent-browser
 │   │   └── Codex CLI
 │   ├── Zsh/

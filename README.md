@@ -2,40 +2,6 @@
 
 ![IMG_4464](https://github.com/takumi12311123/takumi12311123/assets/103009749/f7a94eba-90c0-4e3a-83f6-05975b1f200d)
 
-```
-takumi12311123/
-├── .keyboard/
-│   └── Moonlander
-├── .editor/
-│   ├── Visual Studio Code
-│   └── Neovim
-├── .terminal/
-│   ├── superset/
-│   │   ├── Claude Code/
-│   │   │   └── agent-browser
-│   │   └── Codex CLI
-│   ├── Zsh/
-│   │   ├── Atuin
-│   │   └── fast-syntax-highlighting
-│   ├── tmux/
-│   │   ├── tmux-fzf
-│   │   └── tmux-urlview
-│   └── Starship
-├── .tools/
-│   ├── difit
-│   ├── prr
-│   ├── lazygit
-│   ├── fzf
-│   └── ghq
-└── .using/
-    ├── Karabiner-Elements/
-    │   └── GokuRakuJoudo
-    ├── skhd
-    ├── yabai
-    ├── SketchyBar
-    └── Raycast
-```
-
 ## OSS Contributions
 
 | Repository | Description |

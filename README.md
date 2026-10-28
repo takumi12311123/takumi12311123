@@ -15,3 +15,4 @@
 | [containerd/nerdctl](https://github.com/containerd/nerdctl) | Migrate `container_run_network_windows_test.go` to `nerdtest.Setup` (Tigron) ([#5014](https://github.com/containerd/nerdctl/pull/5014)) |
 | [envoyproxy/gateway](https://github.com/envoyproxy/gateway) | Wire the `standalone` integration test suite into GitHub Actions CI ([#9127](https://github.com/envoyproxy/gateway/pull/9127)) |
 | [moby/moby](https://github.com/moby/moby) | Bump vendored `github.com/fluent/fluent-logger-golang` to v1.10.2 ([#53922](https://github.com/moby/moby/pull/53922)) |
+| [containerd/nerdctl](https://github.com/containerd/nerdctl) | Add `--device-cgroup-rule` to `run`/`create` and `device_cgroup_rules` to `compose` ([#5258](https://github.com/containerd/nerdctl/pull/5258)) |
